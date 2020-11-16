@@ -6,7 +6,7 @@ Calibrated Language Model Fine-Tuning for In- and Out-of-Distribution Data, EMNL
 [[paper](https://arxiv.org/abs/2010.11506)] [[slides](https://www.dropbox.com/s/8ghg62se5u0zqrt/emnlp20-slides.pdf?dl=0)]
 
 
-<div align=center><img width="500" height="300" src="figure/illustration.png"/></div>
+<div align=center><img width="700" height="300" src="figure/illustration.png"/></div>
 
 
 ## Training 
